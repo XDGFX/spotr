@@ -7,7 +7,7 @@ from os import path
 username = cred.username
 
 scope = 'playlist-read-private playlist-modify-private'
-client_id = '8ad6230fc9a9422ebed4007ce352d98e'
+client_id = cred.client_id
 client_secret = cred.client_secret
 
 # Modified lines in util.py:
