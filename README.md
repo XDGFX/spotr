@@ -18,3 +18,6 @@ Run with `python3` and follow instructions to authenticate your account once
 
 ## Further runs
 Just run with `python3`
+
+## Errors
+Spotr should print any errors. If a track is not being removed from your Spotify playlist, check the logs.
