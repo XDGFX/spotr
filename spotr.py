@@ -199,6 +199,8 @@ def main():
     # Remove successful tracks from Spotify playlist
     spotr.remove_tracks_from_spotify(playlist_id, spotify_successful)
 
+    return deezer_links
+
 
 if __name__ == "__main__":
     main()
